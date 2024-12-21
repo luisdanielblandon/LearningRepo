@@ -26,7 +26,7 @@ def sanitize_url(url):
 
 # Define location of the txt file with list of URLs for conversion
 script_dir = os.path.dirname(os.path.realpath(__file__))
-file_path = os.path.join(script_dir, 'URL_list.txt')
+file_path = os.path.join(script_dir, '722_URL_list.txt')
 url_list = read_urls_from_file(file_path)
 
 
