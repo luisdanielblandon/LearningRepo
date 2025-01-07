@@ -1,5 +1,0 @@
-English -- Spanish
-dog -- perro
-cat -- gato
-fish -- pes
----------
