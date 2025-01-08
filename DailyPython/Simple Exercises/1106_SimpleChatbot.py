@@ -5,6 +5,7 @@
 # Python” and the chatbot responds. The answers are fetched from a Python
 # dictionary inside the script:
 
+import datetime
 
 # Define some responses for keywords
 responses = {
@@ -17,7 +18,25 @@ responses = {
     "bye": "Bye! Have a great day!",
 }
 
-
 # You can start with the above dictionary and implement the rest of the program.
 
 #Required libraries: datetime
+
+def chatbot():
+      print("Welcome to the chatbot! You can type 'bye' to exit the program.")
+      while True:
+            user_input = input("You: ").lower()
+            for word in user_input.split():
+                  word = word.strip(".,!?")
+                  if word in responses:
+                        print(f"Bot: {responses[word]}")
+                        if word == "bye":
+                              return
+                        break
+            else:
+                  print("Bot: I'm not sure how to respond to that.")
+                  
+chatbot()
+
+# Started at 5:11 AM
+# Finished at 5:18 AM
