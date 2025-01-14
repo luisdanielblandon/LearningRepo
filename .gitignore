@@ -1,2 +1,14 @@
 .DS_Store
 *\.DS_Store
+DailyPython/Advanced Exercises/AnalyzeCSVsWithPolars/appdata/invoices_1.csv
+DailyPython/Advanced Exercises/AnalyzeCSVsWithPolars/appdata/invoices_1.csv_report.csv
+DailyPython/Advanced Exercises/AnalyzeCSVsWithPolars/appdata/invoices_2.csv
+DailyPython/Advanced Exercises/AnalyzeCSVsWithPolars/appdata/invoices_2.csv_report.csv
+DailyPython/Advanced Exercises/AnalyzeCSVsWithPolars/appdata/invoices_3.csv
+DailyPython/Advanced Exercises/AnalyzeCSVsWithPolars/appdata/invoices_3.csv_report.csv
+DailyPython/Advanced Exercises/EarthquakeDataMap/appdata/earthquake_data.csv
+DailyPython/Advanced Exercises/EarthquakeDataMap/__images__/mapsample.jpg
+DailyPython/Advanced Exercises/EarthquakeDataMap/appdata/earthquake_map.html
+DailyPython/Advanced Exercises/QRCodeGenerator/qrcode.png
+DailyPython/Advanced Exercises/RecordingSystemMetrics/metricslogs/system_metrics.csv
+DailyPython/Advanced Exercises/VisualizeSQLdbWeb/__images__/webapp_layout.jpg
